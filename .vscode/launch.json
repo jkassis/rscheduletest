@@ -1,0 +1,28 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "compounds": [
+    {
+      "name": "apps/store/test (with server)",
+      "configurations": ["Server", "apps/store/test"],
+      "preLaunchTasks": ["tsc: server", "tsc: apps/store/test"]
+    }
+  ],
+  "configurations": [
+    {
+      "name": "Test",
+      "console": "internalConsole",
+      "cwd": "${workspaceFolder}",
+      "program": "${workspaceFolder}/code/main.js",
+      "protocol": "auto",
+      "request": "launch",
+      "showAsyncStacks": true,
+      "smartStep": true,
+      "type": "node",
+      "outputCapture": "std",
+      "preLaunchTask": "tsc"
+    }
+  ]
+}

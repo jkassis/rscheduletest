@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "allowJs": false,
+    "checkJs": false,
+    "esModuleInterop": true,
+    "incremental": true,
+    "isolatedModules": true,
+    "lib": ["ESNext"],
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "noEmit": false,
+    "plugins": [],
+    "skipDefaultLibCheck": true,
+    "skipLibCheck": false,
+    "sourceMap": true,
+    "target": "ESNext",
+    "typeRoots": ["node_modules/@types"]
+  },
+  "exclude": ["**/node_modules", "**/.*/"],
+  "include": ["code", "lib"]
+}
