@@ -4,12 +4,12 @@
 // file. For more information see:
 // https://gitlab.com/john.carroll.p/rschedule/-/tree/v1/docs#setup
 
+import '@rschedule/standard-date-adapter/umd/setup.js'
+
 export * from '@rschedule/standard-date-adapter'
 export * from '@rschedule/core'
-export * from '@rschedule/ical-tools'
-export * from '@rschedule/json-tools'
-
 export * from '@rschedule/core/generators'
-import '@rschedule/standard-date-adapter/setup'
-import '@rschedule/moment-date-adapter/setup'
+export * from '@rschedule/json-tools'
+// export * from '@rschedule/ical-tools'
 
+// import '@rschedule/moment-date-adapter/setup'
