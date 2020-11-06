@@ -176,79 +176,79 @@
         "signature": "50e93a6ba26783793afab9f7303f69715c116cb41e5e875ed6cc9a4944f51a8a",
         "affectsGlobalScope": false
       },
-      "./node_modules/@rschedule/core/generators/occurrence-generator.d.ts": {
+      "./node_modules/@rschedule/generators/occurrence-generator.d.ts": {
         "version": "128f5fa2efbf0eb414033e642b0c34dcf54ba69b061ca6ebb54715915fddf803",
         "signature": "128f5fa2efbf0eb414033e642b0c34dcf54ba69b061ca6ebb54715915fddf803",
         "affectsGlobalScope": false
       },
-      "./node_modules/@rschedule/core/generators/calendar.d.ts": {
+      "./node_modules/@rschedule/generators/calendar.d.ts": {
         "version": "64782cfcc838e1ae965e6063dee22118a5f8b35b745a4a3d83af51671c26d931",
         "signature": "64782cfcc838e1ae965e6063dee22118a5f8b35b745a4a3d83af51671c26d931",
         "affectsGlobalScope": false
       },
-      "./node_modules/@rschedule/core/generators/dates.d.ts": {
+      "./node_modules/@rschedule/generators/dates.d.ts": {
         "version": "772f57d570808e815f7ee3eda5636d57fd4f3cf493a020d0bf94c55ff40c703c",
         "signature": "772f57d570808e815f7ee3eda5636d57fd4f3cf493a020d0bf94c55ff40c703c",
         "affectsGlobalScope": false
       },
-      "./node_modules/@rschedule/core/generators/rule-base.d.ts": {
+      "./node_modules/@rschedule/generators/rule-base.d.ts": {
         "version": "9b6d14eba7292a3a5863efbb4d3875fc1b5271b8b087b22682ee6efe50946935",
         "signature": "9b6d14eba7292a3a5863efbb4d3875fc1b5271b8b087b22682ee6efe50946935",
         "affectsGlobalScope": false
       },
-      "./node_modules/@rschedule/core/generators/rule.d.ts": {
+      "./node_modules/@rschedule/generators/rule.d.ts": {
         "version": "bd098a8d3ddf85232dd7c4e8aa642b9377561861cae4ddcc0b8fda0abc7e145c",
         "signature": "bd098a8d3ddf85232dd7c4e8aa642b9377561861cae4ddcc0b8fda0abc7e145c",
         "affectsGlobalScope": false
       },
-      "./node_modules/@rschedule/core/generators/schedule-base.d.ts": {
+      "./node_modules/@rschedule/generators/schedule-base.d.ts": {
         "version": "f90d363cecfe54c003df8262dc8ac0470e561ce8904835e76dc493ac69472948",
         "signature": "f90d363cecfe54c003df8262dc8ac0470e561ce8904835e76dc493ac69472948",
         "affectsGlobalScope": false
       },
-      "./node_modules/@rschedule/core/generators/schedule.d.ts": {
+      "./node_modules/@rschedule/generators/schedule.d.ts": {
         "version": "65fba6341264282e18ec5e08e9dae7784d3b6f449d755dbb60b4d41db0ebcc8c",
         "signature": "65fba6341264282e18ec5e08e9dae7784d3b6f449d755dbb60b4d41db0ebcc8c",
         "affectsGlobalScope": false
       },
-      "./node_modules/@rschedule/core/generators/operators/addoperator.d.ts": {
+      "./node_modules/@rschedule/generators/operators/addoperator.d.ts": {
         "version": "aee166cd11112cb96ee7b8f1346c37834bfb906fb6f797fe60057a4204c4f8b7",
         "signature": "aee166cd11112cb96ee7b8f1346c37834bfb906fb6f797fe60057a4204c4f8b7",
         "affectsGlobalScope": false
       },
-      "./node_modules/@rschedule/core/generators/operators/intersectionoperator.d.ts": {
+      "./node_modules/@rschedule/generators/operators/intersectionoperator.d.ts": {
         "version": "7b7eb304e319068c9538cb8c35dd8820c27f267180814fbc7fc44952a5cccff9",
         "signature": "7b7eb304e319068c9538cb8c35dd8820c27f267180814fbc7fc44952a5cccff9",
         "affectsGlobalScope": false
       },
-      "./node_modules/@rschedule/core/generators/operators/mergedurationoperator.d.ts": {
+      "./node_modules/@rschedule/generators/operators/mergedurationoperator.d.ts": {
         "version": "566b9fd760a1641e5fbdb7987339cf375233f29317f7b1a3cfe7387cdad42580",
         "signature": "566b9fd760a1641e5fbdb7987339cf375233f29317f7b1a3cfe7387cdad42580",
         "affectsGlobalScope": false
       },
-      "./node_modules/@rschedule/core/generators/operators/splitdurationoperator.d.ts": {
+      "./node_modules/@rschedule/generators/operators/splitdurationoperator.d.ts": {
         "version": "94fc954c28f4108fe2760038026674a7ebe7b59a1180d184a0f97f8f027a29ab",
         "signature": "94fc954c28f4108fe2760038026674a7ebe7b59a1180d184a0f97f8f027a29ab",
         "affectsGlobalScope": false
       },
-      "./node_modules/@rschedule/core/generators/operators/subtractoperator.d.ts": {
+      "./node_modules/@rschedule/generators/operators/subtractoperator.d.ts": {
         "version": "6863524fdb25d5105c6e98d890e8f308fba98d47f276a1719e5298338729ec0c",
         "signature": "6863524fdb25d5105c6e98d890e8f308fba98d47f276a1719e5298338729ec0c",
         "affectsGlobalScope": false
       },
-      "./node_modules/@rschedule/core/generators/operators/uniqueoperator.d.ts": {
+      "./node_modules/@rschedule/generators/operators/uniqueoperator.d.ts": {
         "version": "2fac09204be10a3603290dd1a31d32850751c197d0fdb674227d2d00d590ba09",
         "signature": "2fac09204be10a3603290dd1a31d32850751c197d0fdb674227d2d00d590ba09",
         "affectsGlobalScope": false
       },
-      "./node_modules/@rschedule/core/generators/index.d.ts": {
+      "./node_modules/@rschedule/generators/index.d.ts": {
         "version": "a60fadd9bfa0f62ed0154bdce9d2d96d337307dc8b709e1ad518da5270f7e3e9",
         "signature": "a60fadd9bfa0f62ed0154bdce9d2d96d337307dc8b709e1ad518da5270f7e3e9",
         "affectsGlobalScope": false
       },
       "./node_modules/@rschedule/json-tools/occurrencegenerator.d.ts": {
-        "version": "c9a7d356e3c8278d1aa5e122952f85494c93a4606d9ef061f63bc846dc245acd",
-        "signature": "c9a7d356e3c8278d1aa5e122952f85494c93a4606d9ef061f63bc846dc245acd",
+        "version": "580ea4a48fadc148b79768360b101dd38fcfb623458afc833326721734498e51",
+        "signature": "580ea4a48fadc148b79768360b101dd38fcfb623458afc833326721734498e51",
         "affectsGlobalScope": false
       },
       "./node_modules/@rschedule/json-tools/index.d.ts": {
@@ -257,8 +257,8 @@
         "affectsGlobalScope": false
       },
       "./code/rschedule.ts": {
-        "version": "a28ee69c039f6f56399d71595770e50a8debd270832344c70d01949861fd48cd",
-        "signature": "85576f9ea8875540e7363abcf24f98ce6e3eddd03ec4c73c975683fcbecdc159",
+        "version": "8a9bbdc699fb0ad859ecb2ced236ac54b4cdc2e28524a10e7c34272e9abe205b",
+        "signature": "5dc43f01653bda371f909e6446eee280e19133f28be0a94b12104e2d39d75224",
         "affectsGlobalScope": false
       },
       "./code/main.ts": {
@@ -530,75 +530,10 @@
         "./code/rschedule.ts"
       ],
       "./code/rschedule.ts": [
-        "./node_modules/@rschedule/core/generators/index.d.ts",
         "./node_modules/@rschedule/core/index.d.ts",
+        "./node_modules/@rschedule/generators/index.d.ts",
         "./node_modules/@rschedule/json-tools/index.d.ts",
         "./node_modules/@rschedule/standard-date-adapter/index.d.ts"
-      ],
-      "./node_modules/@rschedule/core/generators/calendar.d.ts": [
-        "./node_modules/@rschedule/core/generators/occurrence-generator.d.ts"
-      ],
-      "./node_modules/@rschedule/core/generators/dates.d.ts": [
-        "./node_modules/@rschedule/core/generators/occurrence-generator.d.ts",
-        "./node_modules/@rschedule/core/index.d.ts"
-      ],
-      "./node_modules/@rschedule/core/generators/index.d.ts": [
-        "./node_modules/@rschedule/core/generators/calendar.d.ts",
-        "./node_modules/@rschedule/core/generators/dates.d.ts",
-        "./node_modules/@rschedule/core/generators/occurrence-generator.d.ts",
-        "./node_modules/@rschedule/core/generators/operators/addoperator.d.ts",
-        "./node_modules/@rschedule/core/generators/operators/intersectionoperator.d.ts",
-        "./node_modules/@rschedule/core/generators/operators/mergedurationoperator.d.ts",
-        "./node_modules/@rschedule/core/generators/operators/splitdurationoperator.d.ts",
-        "./node_modules/@rschedule/core/generators/operators/subtractoperator.d.ts",
-        "./node_modules/@rschedule/core/generators/operators/uniqueoperator.d.ts",
-        "./node_modules/@rschedule/core/generators/rule-base.d.ts",
-        "./node_modules/@rschedule/core/generators/rule.d.ts",
-        "./node_modules/@rschedule/core/generators/schedule-base.d.ts",
-        "./node_modules/@rschedule/core/generators/schedule.d.ts"
-      ],
-      "./node_modules/@rschedule/core/generators/occurrence-generator.d.ts": [
-        "./node_modules/@rschedule/core/index.d.ts"
-      ],
-      "./node_modules/@rschedule/core/generators/operators/addoperator.d.ts": [
-        "./node_modules/@rschedule/core/generators/occurrence-generator.d.ts"
-      ],
-      "./node_modules/@rschedule/core/generators/operators/intersectionoperator.d.ts": [
-        "./node_modules/@rschedule/core/generators/occurrence-generator.d.ts"
-      ],
-      "./node_modules/@rschedule/core/generators/operators/mergedurationoperator.d.ts": [
-        "./node_modules/@rschedule/core/generators/occurrence-generator.d.ts"
-      ],
-      "./node_modules/@rschedule/core/generators/operators/splitdurationoperator.d.ts": [
-        "./node_modules/@rschedule/core/generators/occurrence-generator.d.ts",
-        "./node_modules/@rschedule/core/index.d.ts"
-      ],
-      "./node_modules/@rschedule/core/generators/operators/subtractoperator.d.ts": [
-        "./node_modules/@rschedule/core/generators/occurrence-generator.d.ts"
-      ],
-      "./node_modules/@rschedule/core/generators/operators/uniqueoperator.d.ts": [
-        "./node_modules/@rschedule/core/generators/occurrence-generator.d.ts"
-      ],
-      "./node_modules/@rschedule/core/generators/rule-base.d.ts": [
-        "./node_modules/@rschedule/core/generators/occurrence-generator.d.ts",
-        "./node_modules/@rschedule/core/index.d.ts"
-      ],
-      "./node_modules/@rschedule/core/generators/rule.d.ts": [
-        "./node_modules/@rschedule/core/generators/rule-base.d.ts",
-        "./node_modules/@rschedule/core/index.d.ts"
-      ],
-      "./node_modules/@rschedule/core/generators/schedule-base.d.ts": [
-        "./node_modules/@rschedule/core/generators/dates.d.ts",
-        "./node_modules/@rschedule/core/generators/occurrence-generator.d.ts",
-        "./node_modules/@rschedule/core/generators/rule-base.d.ts",
-        "./node_modules/@rschedule/core/index.d.ts"
-      ],
-      "./node_modules/@rschedule/core/generators/schedule.d.ts": [
-        "./node_modules/@rschedule/core/generators/dates.d.ts",
-        "./node_modules/@rschedule/core/generators/occurrence-generator.d.ts",
-        "./node_modules/@rschedule/core/generators/rule.d.ts",
-        "./node_modules/@rschedule/core/generators/schedule-base.d.ts",
-        "./node_modules/@rschedule/core/index.d.ts"
       ],
       "./node_modules/@rschedule/core/index.d.ts": [
         "./node_modules/@rschedule/core/dateadapter/index.d.ts",
@@ -623,11 +558,76 @@
       "./node_modules/@rschedule/core/utilities.d.ts": [
         "./node_modules/@rschedule/core/dateadapter/index.d.ts"
       ],
+      "./node_modules/@rschedule/generators/calendar.d.ts": [
+        "./node_modules/@rschedule/generators/occurrence-generator.d.ts"
+      ],
+      "./node_modules/@rschedule/generators/dates.d.ts": [
+        "./node_modules/@rschedule/core/index.d.ts",
+        "./node_modules/@rschedule/generators/occurrence-generator.d.ts"
+      ],
+      "./node_modules/@rschedule/generators/index.d.ts": [
+        "./node_modules/@rschedule/generators/calendar.d.ts",
+        "./node_modules/@rschedule/generators/dates.d.ts",
+        "./node_modules/@rschedule/generators/occurrence-generator.d.ts",
+        "./node_modules/@rschedule/generators/operators/addoperator.d.ts",
+        "./node_modules/@rschedule/generators/operators/intersectionoperator.d.ts",
+        "./node_modules/@rschedule/generators/operators/mergedurationoperator.d.ts",
+        "./node_modules/@rschedule/generators/operators/splitdurationoperator.d.ts",
+        "./node_modules/@rschedule/generators/operators/subtractoperator.d.ts",
+        "./node_modules/@rschedule/generators/operators/uniqueoperator.d.ts",
+        "./node_modules/@rschedule/generators/rule-base.d.ts",
+        "./node_modules/@rschedule/generators/rule.d.ts",
+        "./node_modules/@rschedule/generators/schedule-base.d.ts",
+        "./node_modules/@rschedule/generators/schedule.d.ts"
+      ],
+      "./node_modules/@rschedule/generators/occurrence-generator.d.ts": [
+        "./node_modules/@rschedule/core/index.d.ts"
+      ],
+      "./node_modules/@rschedule/generators/operators/addoperator.d.ts": [
+        "./node_modules/@rschedule/generators/occurrence-generator.d.ts"
+      ],
+      "./node_modules/@rschedule/generators/operators/intersectionoperator.d.ts": [
+        "./node_modules/@rschedule/generators/occurrence-generator.d.ts"
+      ],
+      "./node_modules/@rschedule/generators/operators/mergedurationoperator.d.ts": [
+        "./node_modules/@rschedule/generators/occurrence-generator.d.ts"
+      ],
+      "./node_modules/@rschedule/generators/operators/splitdurationoperator.d.ts": [
+        "./node_modules/@rschedule/core/index.d.ts",
+        "./node_modules/@rschedule/generators/occurrence-generator.d.ts"
+      ],
+      "./node_modules/@rschedule/generators/operators/subtractoperator.d.ts": [
+        "./node_modules/@rschedule/generators/occurrence-generator.d.ts"
+      ],
+      "./node_modules/@rschedule/generators/operators/uniqueoperator.d.ts": [
+        "./node_modules/@rschedule/generators/occurrence-generator.d.ts"
+      ],
+      "./node_modules/@rschedule/generators/rule-base.d.ts": [
+        "./node_modules/@rschedule/core/index.d.ts",
+        "./node_modules/@rschedule/generators/occurrence-generator.d.ts"
+      ],
+      "./node_modules/@rschedule/generators/rule.d.ts": [
+        "./node_modules/@rschedule/core/index.d.ts",
+        "./node_modules/@rschedule/generators/rule-base.d.ts"
+      ],
+      "./node_modules/@rschedule/generators/schedule-base.d.ts": [
+        "./node_modules/@rschedule/core/index.d.ts",
+        "./node_modules/@rschedule/generators/dates.d.ts",
+        "./node_modules/@rschedule/generators/occurrence-generator.d.ts",
+        "./node_modules/@rschedule/generators/rule-base.d.ts"
+      ],
+      "./node_modules/@rschedule/generators/schedule.d.ts": [
+        "./node_modules/@rschedule/core/index.d.ts",
+        "./node_modules/@rschedule/generators/dates.d.ts",
+        "./node_modules/@rschedule/generators/occurrence-generator.d.ts",
+        "./node_modules/@rschedule/generators/rule.d.ts",
+        "./node_modules/@rschedule/generators/schedule-base.d.ts"
+      ],
       "./node_modules/@rschedule/json-tools/index.d.ts": [
         "./node_modules/@rschedule/json-tools/occurrencegenerator.d.ts"
       ],
       "./node_modules/@rschedule/json-tools/occurrencegenerator.d.ts": [
-        "./node_modules/@rschedule/core/generators/index.d.ts"
+        "./node_modules/@rschedule/generators/index.d.ts"
       ],
       "./node_modules/@rschedule/standard-date-adapter/index.d.ts": [
         "./node_modules/@rschedule/standard-date-adapter/standard-date-adapter.d.ts"
@@ -805,75 +805,10 @@
     },
     "exportedModulesMap": {
       "./code/rschedule.ts": [
-        "./node_modules/@rschedule/core/generators/index.d.ts",
         "./node_modules/@rschedule/core/index.d.ts",
+        "./node_modules/@rschedule/generators/index.d.ts",
         "./node_modules/@rschedule/json-tools/index.d.ts",
         "./node_modules/@rschedule/standard-date-adapter/index.d.ts"
-      ],
-      "./node_modules/@rschedule/core/generators/calendar.d.ts": [
-        "./node_modules/@rschedule/core/generators/occurrence-generator.d.ts"
-      ],
-      "./node_modules/@rschedule/core/generators/dates.d.ts": [
-        "./node_modules/@rschedule/core/generators/occurrence-generator.d.ts",
-        "./node_modules/@rschedule/core/index.d.ts"
-      ],
-      "./node_modules/@rschedule/core/generators/index.d.ts": [
-        "./node_modules/@rschedule/core/generators/calendar.d.ts",
-        "./node_modules/@rschedule/core/generators/dates.d.ts",
-        "./node_modules/@rschedule/core/generators/occurrence-generator.d.ts",
-        "./node_modules/@rschedule/core/generators/operators/addoperator.d.ts",
-        "./node_modules/@rschedule/core/generators/operators/intersectionoperator.d.ts",
-        "./node_modules/@rschedule/core/generators/operators/mergedurationoperator.d.ts",
-        "./node_modules/@rschedule/core/generators/operators/splitdurationoperator.d.ts",
-        "./node_modules/@rschedule/core/generators/operators/subtractoperator.d.ts",
-        "./node_modules/@rschedule/core/generators/operators/uniqueoperator.d.ts",
-        "./node_modules/@rschedule/core/generators/rule-base.d.ts",
-        "./node_modules/@rschedule/core/generators/rule.d.ts",
-        "./node_modules/@rschedule/core/generators/schedule-base.d.ts",
-        "./node_modules/@rschedule/core/generators/schedule.d.ts"
-      ],
-      "./node_modules/@rschedule/core/generators/occurrence-generator.d.ts": [
-        "./node_modules/@rschedule/core/index.d.ts"
-      ],
-      "./node_modules/@rschedule/core/generators/operators/addoperator.d.ts": [
-        "./node_modules/@rschedule/core/generators/occurrence-generator.d.ts"
-      ],
-      "./node_modules/@rschedule/core/generators/operators/intersectionoperator.d.ts": [
-        "./node_modules/@rschedule/core/generators/occurrence-generator.d.ts"
-      ],
-      "./node_modules/@rschedule/core/generators/operators/mergedurationoperator.d.ts": [
-        "./node_modules/@rschedule/core/generators/occurrence-generator.d.ts"
-      ],
-      "./node_modules/@rschedule/core/generators/operators/splitdurationoperator.d.ts": [
-        "./node_modules/@rschedule/core/generators/occurrence-generator.d.ts",
-        "./node_modules/@rschedule/core/index.d.ts"
-      ],
-      "./node_modules/@rschedule/core/generators/operators/subtractoperator.d.ts": [
-        "./node_modules/@rschedule/core/generators/occurrence-generator.d.ts"
-      ],
-      "./node_modules/@rschedule/core/generators/operators/uniqueoperator.d.ts": [
-        "./node_modules/@rschedule/core/generators/occurrence-generator.d.ts"
-      ],
-      "./node_modules/@rschedule/core/generators/rule-base.d.ts": [
-        "./node_modules/@rschedule/core/generators/occurrence-generator.d.ts",
-        "./node_modules/@rschedule/core/index.d.ts"
-      ],
-      "./node_modules/@rschedule/core/generators/rule.d.ts": [
-        "./node_modules/@rschedule/core/generators/rule-base.d.ts",
-        "./node_modules/@rschedule/core/index.d.ts"
-      ],
-      "./node_modules/@rschedule/core/generators/schedule-base.d.ts": [
-        "./node_modules/@rschedule/core/generators/dates.d.ts",
-        "./node_modules/@rschedule/core/generators/occurrence-generator.d.ts",
-        "./node_modules/@rschedule/core/generators/rule-base.d.ts",
-        "./node_modules/@rschedule/core/index.d.ts"
-      ],
-      "./node_modules/@rschedule/core/generators/schedule.d.ts": [
-        "./node_modules/@rschedule/core/generators/dates.d.ts",
-        "./node_modules/@rschedule/core/generators/occurrence-generator.d.ts",
-        "./node_modules/@rschedule/core/generators/rule.d.ts",
-        "./node_modules/@rschedule/core/generators/schedule-base.d.ts",
-        "./node_modules/@rschedule/core/index.d.ts"
       ],
       "./node_modules/@rschedule/core/index.d.ts": [
         "./node_modules/@rschedule/core/dateadapter/index.d.ts",
@@ -898,11 +833,76 @@
       "./node_modules/@rschedule/core/utilities.d.ts": [
         "./node_modules/@rschedule/core/dateadapter/index.d.ts"
       ],
+      "./node_modules/@rschedule/generators/calendar.d.ts": [
+        "./node_modules/@rschedule/generators/occurrence-generator.d.ts"
+      ],
+      "./node_modules/@rschedule/generators/dates.d.ts": [
+        "./node_modules/@rschedule/core/index.d.ts",
+        "./node_modules/@rschedule/generators/occurrence-generator.d.ts"
+      ],
+      "./node_modules/@rschedule/generators/index.d.ts": [
+        "./node_modules/@rschedule/generators/calendar.d.ts",
+        "./node_modules/@rschedule/generators/dates.d.ts",
+        "./node_modules/@rschedule/generators/occurrence-generator.d.ts",
+        "./node_modules/@rschedule/generators/operators/addoperator.d.ts",
+        "./node_modules/@rschedule/generators/operators/intersectionoperator.d.ts",
+        "./node_modules/@rschedule/generators/operators/mergedurationoperator.d.ts",
+        "./node_modules/@rschedule/generators/operators/splitdurationoperator.d.ts",
+        "./node_modules/@rschedule/generators/operators/subtractoperator.d.ts",
+        "./node_modules/@rschedule/generators/operators/uniqueoperator.d.ts",
+        "./node_modules/@rschedule/generators/rule-base.d.ts",
+        "./node_modules/@rschedule/generators/rule.d.ts",
+        "./node_modules/@rschedule/generators/schedule-base.d.ts",
+        "./node_modules/@rschedule/generators/schedule.d.ts"
+      ],
+      "./node_modules/@rschedule/generators/occurrence-generator.d.ts": [
+        "./node_modules/@rschedule/core/index.d.ts"
+      ],
+      "./node_modules/@rschedule/generators/operators/addoperator.d.ts": [
+        "./node_modules/@rschedule/generators/occurrence-generator.d.ts"
+      ],
+      "./node_modules/@rschedule/generators/operators/intersectionoperator.d.ts": [
+        "./node_modules/@rschedule/generators/occurrence-generator.d.ts"
+      ],
+      "./node_modules/@rschedule/generators/operators/mergedurationoperator.d.ts": [
+        "./node_modules/@rschedule/generators/occurrence-generator.d.ts"
+      ],
+      "./node_modules/@rschedule/generators/operators/splitdurationoperator.d.ts": [
+        "./node_modules/@rschedule/core/index.d.ts",
+        "./node_modules/@rschedule/generators/occurrence-generator.d.ts"
+      ],
+      "./node_modules/@rschedule/generators/operators/subtractoperator.d.ts": [
+        "./node_modules/@rschedule/generators/occurrence-generator.d.ts"
+      ],
+      "./node_modules/@rschedule/generators/operators/uniqueoperator.d.ts": [
+        "./node_modules/@rschedule/generators/occurrence-generator.d.ts"
+      ],
+      "./node_modules/@rschedule/generators/rule-base.d.ts": [
+        "./node_modules/@rschedule/core/index.d.ts",
+        "./node_modules/@rschedule/generators/occurrence-generator.d.ts"
+      ],
+      "./node_modules/@rschedule/generators/rule.d.ts": [
+        "./node_modules/@rschedule/core/index.d.ts",
+        "./node_modules/@rschedule/generators/rule-base.d.ts"
+      ],
+      "./node_modules/@rschedule/generators/schedule-base.d.ts": [
+        "./node_modules/@rschedule/core/index.d.ts",
+        "./node_modules/@rschedule/generators/dates.d.ts",
+        "./node_modules/@rschedule/generators/occurrence-generator.d.ts",
+        "./node_modules/@rschedule/generators/rule-base.d.ts"
+      ],
+      "./node_modules/@rschedule/generators/schedule.d.ts": [
+        "./node_modules/@rschedule/core/index.d.ts",
+        "./node_modules/@rschedule/generators/dates.d.ts",
+        "./node_modules/@rschedule/generators/occurrence-generator.d.ts",
+        "./node_modules/@rschedule/generators/rule.d.ts",
+        "./node_modules/@rschedule/generators/schedule-base.d.ts"
+      ],
       "./node_modules/@rschedule/json-tools/index.d.ts": [
         "./node_modules/@rschedule/json-tools/occurrencegenerator.d.ts"
       ],
       "./node_modules/@rschedule/json-tools/occurrencegenerator.d.ts": [
-        "./node_modules/@rschedule/core/generators/index.d.ts"
+        "./node_modules/@rschedule/generators/index.d.ts"
       ],
       "./node_modules/@rschedule/standard-date-adapter/index.d.ts": [
         "./node_modules/@rschedule/standard-date-adapter/standard-date-adapter.d.ts"
@@ -1124,25 +1124,25 @@
       ],
       "./code/rschedule.ts",
       "./node_modules/@rschedule/core/dateadapter/index.d.ts",
-      "./node_modules/@rschedule/core/generators/calendar.d.ts",
-      "./node_modules/@rschedule/core/generators/dates.d.ts",
-      "./node_modules/@rschedule/core/generators/index.d.ts",
-      "./node_modules/@rschedule/core/generators/occurrence-generator.d.ts",
-      "./node_modules/@rschedule/core/generators/operators/addoperator.d.ts",
-      "./node_modules/@rschedule/core/generators/operators/intersectionoperator.d.ts",
-      "./node_modules/@rschedule/core/generators/operators/mergedurationoperator.d.ts",
-      "./node_modules/@rschedule/core/generators/operators/splitdurationoperator.d.ts",
-      "./node_modules/@rschedule/core/generators/operators/subtractoperator.d.ts",
-      "./node_modules/@rschedule/core/generators/operators/uniqueoperator.d.ts",
-      "./node_modules/@rschedule/core/generators/rule-base.d.ts",
-      "./node_modules/@rschedule/core/generators/rule.d.ts",
-      "./node_modules/@rschedule/core/generators/schedule-base.d.ts",
-      "./node_modules/@rschedule/core/generators/schedule.d.ts",
       "./node_modules/@rschedule/core/index.d.ts",
       "./node_modules/@rschedule/core/recurrence-rule-options.d.ts",
       "./node_modules/@rschedule/core/recurrence-rule.d.ts",
       "./node_modules/@rschedule/core/recurrence-rules-iterator.d.ts",
       "./node_modules/@rschedule/core/utilities.d.ts",
+      "./node_modules/@rschedule/generators/calendar.d.ts",
+      "./node_modules/@rschedule/generators/dates.d.ts",
+      "./node_modules/@rschedule/generators/index.d.ts",
+      "./node_modules/@rschedule/generators/occurrence-generator.d.ts",
+      "./node_modules/@rschedule/generators/operators/addoperator.d.ts",
+      "./node_modules/@rschedule/generators/operators/intersectionoperator.d.ts",
+      "./node_modules/@rschedule/generators/operators/mergedurationoperator.d.ts",
+      "./node_modules/@rschedule/generators/operators/splitdurationoperator.d.ts",
+      "./node_modules/@rschedule/generators/operators/subtractoperator.d.ts",
+      "./node_modules/@rschedule/generators/operators/uniqueoperator.d.ts",
+      "./node_modules/@rschedule/generators/rule-base.d.ts",
+      "./node_modules/@rschedule/generators/rule.d.ts",
+      "./node_modules/@rschedule/generators/schedule-base.d.ts",
+      "./node_modules/@rschedule/generators/schedule.d.ts",
       "./node_modules/@rschedule/json-tools/index.d.ts",
       "./node_modules/@rschedule/json-tools/occurrencegenerator.d.ts",
       "./node_modules/@rschedule/standard-date-adapter/index.d.ts",

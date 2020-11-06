@@ -6,7 +6,7 @@
 import '@rschedule/standard-date-adapter/umd/setup.js';
 export * from '@rschedule/standard-date-adapter';
 export * from '@rschedule/core';
-export * from '@rschedule/core/generators';
+export * from '@rschedule/generators';
 export * from '@rschedule/json-tools';
 // export * from '@rschedule/ical-tools'
 // import '@rschedule/moment-date-adapter/setup'

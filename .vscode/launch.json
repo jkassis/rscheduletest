@@ -21,6 +21,7 @@
       "showAsyncStacks": true,
       "smartStep": true,
       "type": "node",
+      "args": ["--es-module-specifier-resolution=node"],
       "outputCapture": "std",
       "preLaunchTask": "tsc"
     }
